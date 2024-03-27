@@ -1,3 +1,3 @@
 ## Birthday - Card Project:--
-This is my first project  created from local system.
-created by Rajkumar saw
+This is my first project  created in local system.
+created by Rajkumar 
